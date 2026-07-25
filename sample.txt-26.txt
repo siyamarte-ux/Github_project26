@@ -1,3 +1,4 @@
 Hi Welcome to Git
 hello world
 reading text sample
+Hi making changes 
