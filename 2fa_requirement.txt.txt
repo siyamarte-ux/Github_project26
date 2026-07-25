@@ -1,3 +1,4 @@
-WhatsApp Integration 
-OTP
-pay later
+1.WhatsApp Integration 
+2.OTP
+3.pay later
+4.email otp
